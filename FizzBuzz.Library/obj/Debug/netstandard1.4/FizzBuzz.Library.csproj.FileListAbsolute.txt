@@ -1,0 +1,6 @@
+/Users/ernestopedraza/Projects/TDD-TheBigPicture-master/FizzBuzz-Start/FizzBuzz.Library/bin/Debug/netstandard1.4/FizzBuzz.Library.deps.json
+/Users/ernestopedraza/Projects/TDD-TheBigPicture-master/FizzBuzz-Start/FizzBuzz.Library/bin/Debug/netstandard1.4/FizzBuzz.Library.dll
+/Users/ernestopedraza/Projects/TDD-TheBigPicture-master/FizzBuzz-Start/FizzBuzz.Library/bin/Debug/netstandard1.4/FizzBuzz.Library.pdb
+/Users/ernestopedraza/Projects/TDD-TheBigPicture-master/FizzBuzz-Start/FizzBuzz.Library/obj/Debug/netstandard1.4/FizzBuzz.Library.AssemblyInfo.cs
+/Users/ernestopedraza/Projects/TDD-TheBigPicture-master/FizzBuzz-Start/FizzBuzz.Library/obj/Debug/netstandard1.4/FizzBuzz.Library.dll
+/Users/ernestopedraza/Projects/TDD-TheBigPicture-master/FizzBuzz-Start/FizzBuzz.Library/obj/Debug/netstandard1.4/FizzBuzz.Library.pdb

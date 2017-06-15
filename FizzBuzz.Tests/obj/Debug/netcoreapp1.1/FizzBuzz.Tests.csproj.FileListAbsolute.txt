@@ -1,0 +1,13 @@
+/Users/ernestopedraza/Projects/TDD-TheBigPicture-master/FizzBuzz-Start/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/FizzBuzz.Tests.deps.json
+/Users/ernestopedraza/Projects/TDD-TheBigPicture-master/FizzBuzz-Start/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/FizzBuzz.Tests.runtimeconfig.json
+/Users/ernestopedraza/Projects/TDD-TheBigPicture-master/FizzBuzz-Start/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/FizzBuzz.Tests.runtimeconfig.dev.json
+/Users/ernestopedraza/Projects/TDD-TheBigPicture-master/FizzBuzz-Start/FizzBuzz.Tests/obj/Debug/netcoreapp1.1/FizzBuzz.Tests.AssemblyInfo.cs
+/Users/ernestopedraza/Projects/TDD-TheBigPicture-master/FizzBuzz-Start/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/ernestopedraza/Projects/TDD-TheBigPicture-master/FizzBuzz-Start/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/ernestopedraza/Projects/TDD-TheBigPicture-master/FizzBuzz-Start/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/ernestopedraza/Projects/TDD-TheBigPicture-master/FizzBuzz-Start/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/FizzBuzz.Tests.dll
+/Users/ernestopedraza/Projects/TDD-TheBigPicture-master/FizzBuzz-Start/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/FizzBuzz.Tests.pdb
+/Users/ernestopedraza/Projects/TDD-TheBigPicture-master/FizzBuzz-Start/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/FizzBuzz.Library.dll
+/Users/ernestopedraza/Projects/TDD-TheBigPicture-master/FizzBuzz-Start/FizzBuzz.Tests/bin/Debug/netcoreapp1.1/FizzBuzz.Library.pdb
+/Users/ernestopedraza/Projects/TDD-TheBigPicture-master/FizzBuzz-Start/FizzBuzz.Tests/obj/Debug/netcoreapp1.1/FizzBuzz.Tests.dll
+/Users/ernestopedraza/Projects/TDD-TheBigPicture-master/FizzBuzz-Start/FizzBuzz.Tests/obj/Debug/netcoreapp1.1/FizzBuzz.Tests.pdb
