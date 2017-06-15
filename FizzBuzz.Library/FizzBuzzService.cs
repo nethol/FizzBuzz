@@ -7,9 +7,12 @@ namespace FizzBuzz.Library
             if(IsDivisibleByFive(n) && IsDivisibleByThree(n))
             {
                 return "FizzBuzz";
-            }else if(IsDivisibleByFive(n)){
+            }
+            else if(IsDivisibleByFive(n))
+            {
                 return "Buzz";
-            }else if(IsDivisibleByThree(n))
+            }
+            else if(IsDivisibleByThree(n))
             {
                 return "Fizz";
             }
